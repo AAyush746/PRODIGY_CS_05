@@ -1,2 +1,2 @@
 # PRODIGY_CS_03
-Password Complexity Manager
+Password Complexity Checker
